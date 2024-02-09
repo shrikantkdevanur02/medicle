@@ -1,0 +1,37 @@
+.container1{
+background-color: black;
+}
+.header1{
+    display: flex;
+    background-color: #f2f2f2;
+    color: #777777;
+    padding: 20px;
+    align-content: right;
+}
+
+.navbar{
+    margin-left:200px; 
+}
+.items{
+    display: flex;
+    margin: 10px;
+    position: fixed;
+}
+.itemA{
+    margin-left: 750px;
+    color: #008FE2;
+}
+.item{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.1rem;
+}
+.item:hover{
+    border: 2px solid transparent;
+    background-color: darkblue;
+    color: white;
+}
+.vr{
+    height: 50px;
+}
